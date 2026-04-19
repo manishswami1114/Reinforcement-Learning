@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Mac OS
+.DS_Store
+
+# PyTorch/Models/Data
+*.dat
+*.pt
+*.pth
+runs/
+
+# IDEs
+.idea/
+.vscode/
+
+# AI configs
+.claude
+.gemini
